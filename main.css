@@ -1,0 +1,13 @@
+.plate {
+	display: inline-block;
+	background-color: #DDD;
+	width:340px;
+	margin: 20px;
+	padding: 20px;
+}
+
+
+.menu {
+	margin: auto;
+	width: 80%;
+}
